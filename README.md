@@ -38,3 +38,9 @@ python realtime.py
 ## Project Structure
 - `realtime.py` - Real-time webcam emotion detection
 - `best_model.h5` - Trained CNN model
+
+
+
+## Download Model
+**Download best_model.h5 from Google Drive:
+[Click here to download](https://drive.google.com/file/d/1IOmG6N9i1jUW73Blx9U72R14vywx-_zC/view?usp=drive_link)**
